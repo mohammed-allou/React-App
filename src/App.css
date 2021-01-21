@@ -1,0 +1,35 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar{
+  overflow: hidden;
+  background: rgb(211, 208, 208);
+  color: azure;
+}
+.container{
+  width: 80%;
+  margin: auto;
+}
+.logo{
+  font-size: 25px;
+  width: 30%;
+  float: left;
+  display: block;
+  margin: 10px 0;
+}
+ul{
+  width: 70%;
+  float: left;
+  padding: 0;
+  text-align: 0 15px;
+}
+ul a {
+text-decoration: rgb(241, 234, 223);
+margin: 0 15px;
+
+}
+.active{
+  background-color: cornflowerblue;
+}
